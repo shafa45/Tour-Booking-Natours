@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://bit.ly/369pffj"><img src="https://github.com/shafa45/Tour-Booking-Natours/blob/master/public/img/logo-green-round.png" alt="Natours" width="200"></a>
+  <a href="https://bit.ly/369pffj"><img src="https://github.com/shafa45/Tour-Booking-Natours/blob/main/public/img/logo-green-round.png" alt="Natours" width="200"></img></a>
   <br>
   Natours
   <br>
